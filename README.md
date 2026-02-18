@@ -1,4 +1,5 @@
-# 💫 About Me:I craft scalable, insight-driven data solutions — transforming complex datasets into clear, decision-ready intelligence that powers smarter content and business decisions.
+# 💫 About Me:
+I craft scalable, insight-driven data solutions — transforming complex datasets into clear, decision-ready intelligence that powers smarter content and business decisions.
 
 
 ## 🌐 Socials:
