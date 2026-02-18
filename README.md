@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am currently working as an senior consultant at an media research company and want to excel my career as an data engineer or data scientist
+# 💫 About Me:I craft scalable, insight-driven data solutions — transforming complex datasets into clear, decision-ready intelligence that powers smarter content and business decisions.
 
 
 ## 🌐 Socials:
