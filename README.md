@@ -12,7 +12,7 @@ I craft scalable, insight-driven data solutions — transforming complex dataset
 ![](https://nirzak-streak-stats.vercel.app/?user=Kashyap03-K&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyap03-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ One learns new things everyday 💡✨
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
